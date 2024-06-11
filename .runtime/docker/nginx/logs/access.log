@@ -2,3 +2,5 @@
 172.19.0.1 - - [01/May/2024:20:18:07 +0300] "GET / HTTP/1.1" 200 1710 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0"
 172.19.0.1 - - [01/May/2024:20:48:55 +0300] "GET / HTTP/1.1" 200 1710 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 OPR/109.0.0.0"
 172.19.0.1 - - [11/Jun/2024:12:04:06 +0300] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36"
+172.24.0.1 - - [11/Jun/2024:13:57:22 +0300] "GET / HTTP/1.1" 200 1710 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36"
+172.24.0.1 - - [11/Jun/2024:14:05:43 +0300] "GET /categories HTTP/1.1" 200 1710 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36"
